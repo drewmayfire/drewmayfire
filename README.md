@@ -6,7 +6,7 @@ Hi, I'm Andrei. I'm studying cybersecurity and focusing on low-level and systems
 - **Operating Systems:** Linux (Fedora, Arch), POSIX APIs
 - **Low-level / Systems:** Linux kernel basics, loadable kernel modules (LKM), ELF format, process & memory model, syscalls
 - **Security:** Security research fundamentals, privilege escalation concepts, threat modeling, red team tooling (educational)
-- **Tooling:** git, vim, gdb, make, cmake, basic CI/CD
+- **Tooling:** git, neovim, gdb, make, cmake, CI/CD
 
 ## My projects
 
@@ -24,8 +24,8 @@ A research Linux kernel module demonstrating techniques used for monitoring and 
 - GitHub: [drewmayfire](https://github.com/drewmayfire)
 - Email: [drewmayfire@proton.me](mailto:drewmayfire@proton.me)
 - GPG: [drewmayfire.gpg](https://github.com/drewmayfire.gpg)
-- **Personal blog**: *Will be added*
-- LinkedIn: *Will be added*
+- **Personal blog**: [drewmayfire.github.io](https://drewmayfire.github.io)
+- LinkedIn: [linkedin.com/in/andrei-khomenkov](https://linkedin.com/in/andrei-khomenkov)
 - CV: *Will be added*
 
 ## Goals
