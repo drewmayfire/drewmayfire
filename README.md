@@ -10,7 +10,9 @@ Hi, I'm Andrei. I'm studying cybersecurity and focusing on low-level and systems
 
 ## My projects
 
-### [**Nova**](https://github.com/drewmayfire/nova)
+Will be added.
+
+<!-- ### [**Nova**](https://github.com/drewmayfire/nova)
 A lightweight remote automation and telemetry framework designed for secure command dispatch and agent reporting.<br>
 
 *Focus:* protocol design, secure communications, multi-language integration (Python + C/C++).
@@ -18,7 +20,7 @@ A lightweight remote automation and telemetry framework designed for secure comm
 ### [**hollow.ko**](https://github.com/drewmayfire/hollow.ko)
 A research Linux kernel module demonstrating techniques used for monitoring and detecting stealthy behavior in the kernel.<br>
 
-*Focus:* kernel internals, syscall interception, tracing & detection.
+*Focus:* kernel internals, syscall interception, tracing & detection. -->
 
 ## Contact & Links
 - GitHub: [drewmayfire](https://github.com/drewmayfire)
@@ -38,7 +40,3 @@ My work focuses on the following areas:
 
 ## Contributing
 Feel free to open an issue or a PR if you have something to share. I’m open to technical discussions and collaboration on systems and security topics.
-
-## Observations
-- Currently listening: *Machine Gun Kelly – Tickets To My Downfall (All Access)*<br>
-- Recently read: *Atomic Habits – James Clear*
